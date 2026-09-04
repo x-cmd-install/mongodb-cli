@@ -1,11 +1,13 @@
 about:
-  description: MongoDB CLI enable you to manage your MongoDB via ops manager and cloud manager
+  description:
+  |
+    MongoDB CLI enable you to manage your MongoDB via ops manager and cloud manager
   license: Apache-2.0
   homepage: 
   head: d1b6e3f
   archived: false
   latestVersion: mongocli/v2.0.7
-  collectedAt: 2026-09-04T05:03:06Z
+  collectedAt: 2026-09-04T19:57:31Z
 timeline:
   created: 2025-01-21
   lastCommit: 2026-09-02
@@ -15,8 +17,8 @@ popularity:
   watcher: 4
   fork: 7
   release: 9
-  contributor: 71
-  pullRequest: 19
+  contributor: 43
+  pullRequest: 114
   issue: 2
 language:
   Go: 1859777
@@ -24,7 +26,7 @@ language:
   Dockerfile: 17243
   Python: 11303
   Makefile: 5120
-totalLine: 1951553
+totalBytes: 1951553
 recent:
   last30d:
     since: 2026-08-05
@@ -34,6 +36,14 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 9
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 15
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 15
   last90d:
     since: 2026-06-06
     release: 0
@@ -58,3 +68,21 @@ recent:
     closedIssue: 1
     openIssue: 0
     commit: 57
+  last720d:
+    since: 2024-09-14
+    release: 9
+    mergedPR: 95
+    openPR: 1
+    closedIssue: 2
+    openIssue: 0
+    commit: 122
+total:
+  release: 9
+  mergedPR: 95
+  openPR: 1
+  closedIssue: 2
+  openIssue: 0
+  commit: 2821
+---
+---
+
