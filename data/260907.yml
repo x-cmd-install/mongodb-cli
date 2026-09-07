@@ -2,13 +2,13 @@ about:
   description: "MongoDB CLI enable you to manage your MongoDB via ops manager and cloud manager"
   license: Apache-2.0
   homepage: 
-  head: d1b6e3f
+  head: c045e8d
   archived: false
   latestVersion: "mongocli/v2.0.7"
-  collectedAt: 2026-09-07T04:21:56Z
+  collectedAt: 2026-09-07T20:01:01Z
 timeline:
   created: 2025-01-21
-  lastCommit: 2026-09-02
+  lastCommit: 2026-09-07
   lastRelease: 2026-01-08
 popularity:
   star: 8
@@ -29,61 +29,61 @@ recent:
   last30d:
     since: 2026-08-08
     release: 0
-    mergedPR: 9
-    openPR: 1
+    mergedPR: 10
+    openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 8
+    commit: 9
   last60d:
     since: 2026-07-09
     release: 0
-    mergedPR: 14
-    openPR: 1
+    mergedPR: 15
+    openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 14
+    commit: 15
   last90d:
     since: 2026-06-09
     release: 0
-    mergedPR: 19
-    openPR: 1
+    mergedPR: 20
+    openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 19
+    commit: 20
   last180d:
     since: 2026-03-11
     release: 0
-    mergedPR: 31
-    openPR: 1
+    mergedPR: 32
+    openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 31
+    commit: 32
   last360d:
     since: 2025-09-12
     release: 2
-    mergedPR: 55
-    openPR: 1
+    mergedPR: 56
+    openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 55
+    commit: 56
   last720d:
     since: 2024-09-17
     release: 9
-    mergedPR: 95
-    openPR: 1
+    mergedPR: 96
+    openPR: 0
     closedIssue: 2
     openIssue: 0
-    commit: 122
+    commit: 123
 total:
   release: 9
-  mergedPR: 95
-  openPR: 1
+  mergedPR: 96
+  openPR: 0
   closedIssue: 2
   openIssue: 0
-  commit: 2821
+  commit: 2822
 ---
 path: /home/runner/.x-repo/github.com/mongodb/mongodb-cli
-collectedAt: 2026-09-07T04:21:59Z
+collectedAt: 2026-09-07T20:01:07Z
 loc:
   Go:
     code: 48194
@@ -144,7 +144,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:22:00+00:00
+  collectedAt: 2026-09-07T20:01:12+00:00
   platform:
     darwin/arm64:
       name:  mongocli_2.0.7_macos_arm64.zip
