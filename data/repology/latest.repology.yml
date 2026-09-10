@@ -1,0 +1,117 @@
+- repo: chocolatey
+  binname: mongodb-cli.portable
+  visiblename: MongoDB Command Line Interface (Portable)
+  version: 2.0.7
+  origversion: null
+  status: newest
+  summary: MongoDB CLI for Cloud Manager and Ops Manager
+- repo: aur
+  srcname: mongocli-bin
+  binname: mongocli-bin
+  visiblename: mongocli-bin
+  version: 1.9.0
+  origversion: 1.9.0-1
+  status: legacy
+  summary: mongocli binary to deploy and manage Atlas clusters
+  maintainers:
+    - myisaak@aur
+  licenses:
+    - SSPLv1
+- repo: aur
+  srcname: mongodb-cli-bin
+  binname: mongodb-cli-bin
+  visiblename: mongodb-cli-bin
+  version: 2.0.3
+  origversion: 2.0.3-1
+  status: outdated
+  summary: MongoDB CLI
+  maintainers:
+    - ogarcia@aur
+  licenses:
+    - Apache-2.0
+- repo: chocolatey
+  binname: mongodb-cli
+  visiblename: MongoDB Command Line Interface
+  version: 2.0.7
+  origversion: null
+  status: newest
+  summary: MongoDB CLI for Cloud Manager and Ops Manager
+- repo: chocolatey
+  binname: mongodb-cli.install
+  visiblename: MongoDB Command Line Interface (Install)
+  version: 2.0.7
+  origversion: null
+  status: newest
+  summary: MongoDB CLI for Cloud Manager and Ops Manager
+- repo: homebrew
+  srcname: mongocli
+  visiblename: mongocli
+  version: 2.0.7
+  origversion: null
+  status: newest
+  summary: MongoDB CLI enables you to manage your MongoDB in the Cloud
+- repo: homebrew
+  srcname: mongocli
+  visiblename: mongocli
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: MongoDB CLI enables you to manage your MongoDB in the Cloud
+- repo: macports
+  srcname: databases/mongocli
+  binname: mongocli
+  visiblename: mongocli
+  version: 2.0.7
+  origversion: null
+  status: newest
+  summary: Manage your MongoDB from the terminal
+  maintainers:
+    - commitmaniac@github
+  licenses:
+    - Apache-2
+  categories:
+    - databases
+- repo: nix_stable_25_05
+  srcname: mongodb-cli
+  visiblename: mongodb-cli
+  version: 2.0.3
+  origversion: null
+  status: outdated
+  summary: MongoDB CLI enable you to manage your MongoDB via ops manager and cloud manager
+  maintainers:
+    - nixpkgs.yjzaw@slmail.me
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: mongodb-cli
+  visiblename: mongodb-cli
+  version: 2.0.6
+  origversion: null
+  status: outdated
+  summary: Manage your MongoDB via ops manager and cloud manager
+  maintainers:
+    - nixpkgs.yjzaw@slmail.me
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: mongodb-cli
+  visiblename: mongodb-cli
+  version: 2.0.7
+  origversion: null
+  status: newest
+  summary: Manage your MongoDB via ops manager and cloud manager
+  maintainers:
+    - iamanaws@httpd.dev
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: mongodb-cli
+  visiblename: mongodb-cli
+  version: 2.0.7
+  origversion: null
+  status: newest
+  summary: Manage your MongoDB via ops manager and cloud manager
+  maintainers:
+    - iamanaws@httpd.dev
+  licenses:
+    - Apache-2.0
