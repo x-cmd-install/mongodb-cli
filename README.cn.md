@@ -12,6 +12,18 @@ MongoDB CLI enable you to manage your MongoDB via ops manager and cloud manager
 x install mongodb-cli
 ```
 
+## 代码规模
+
+合计: **51,493** 行代码（覆盖前 5 种语言、共 **791** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 48,194 | 11,481 | 9,123 | 732 |
+| Yaml | 1,236 | 27 | 44 | 3 |
+| Sh | 648 | 425 | 222 | 28 |
+| Dockerfile | 525 | 0 | 160 | 27 |
+| Bash | 344 | 67 | 90 | 1 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/mongodb/mongodb-cli>
@@ -22,6 +34,25 @@ x install mongodb-cli
 - **最新版本**: `mongocli/v2.0.7` (2026-01-08)
 - **最近提交**: 2026-09-08
 - **Release 含资产**: 18 个
+
+## 流行度
+
+- **Star**: 8 · **Fork**: 7 · **开放 issue**: 2 · **贡献者**: 43
+
+## 累计统计
+
+- **发布数**: 9 · **已合并 PR**: 100 · **开放 PR**: 1 · **已关闭 issue**: 2 · **开放 issue**: 0 · **提交数**: 2826
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 13 | 1 | 0 | 0 | 13 |
+| last60d | 2026-07-12 | 0 | 19 | 1 | 0 | 0 | 19 |
+| 90d | 2026-06-12 | 0 | 24 | 1 | 0 | 0 | 24 |
+| last180d | 2026-03-14 | 0 | 36 | 1 | 0 | 0 | 36 |
+| 360d | 2025-09-15 | 2 | 60 | 1 | 1 | 0 | 60 |
+| last720d | 2024-09-20 | 9 | 100 | 1 | 2 | 0 | 126 |
 
 ## Release 资产
 
@@ -46,33 +77,14 @@ x install mongodb-cli
 | [mongocli_2.0.7_windows_x86_64.msi](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_windows_x86_64.msi) | 6.4 MiB | `native/win/x64` |
 | [mongocli_2.0.7_windows_x86_64.zip](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_windows_x86_64.zip) | 6.2 MiB | `native/win/x64` |
 
-## 流行度
+## 发行版状态
 
-- **Star**: 8 · **Fork**: 7 · **开放 issue**: 2 · **贡献者**: 43
+在 [repology.org](https://repology.org/project/mongodb-cli) 上共有 **12** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
 
-## 累计统计
-
-- **发布数**: 9 · **已合并 PR**: 100 · **开放 PR**: 1 · **已关闭 issue**: 2 · **开放 issue**: 0 · **提交数**: 2826
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 13 | 1 | 0 | 0 | 13 |
-| 90d | 2026-06-12 | 0 | 24 | 1 | 0 | 0 | 24 |
-| 360d | 2025-09-15 | 2 | 60 | 1 | 1 | 0 | 60 |
-
-## 代码规模
-
-合计: **51,493** 行代码（覆盖前 5 种语言、共 **791** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 48,194 | 11,481 | 9,123 | 732 |
-| Yaml | 1,236 | 27 | 44 | 3 |
-| Sh | 648 | 425 | 222 | 28 |
-| Dockerfile | 525 | 0 | 160 | 27 |
-| Bash | 344 | 67 | 90 | 1 |
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `2.0.7` | ✅ latest |
+| Nix unstable | `2.0.7` | ✅ latest |
 
 ## 改进这些数据
 
@@ -83,4 +95,4 @@ mongodb-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:07:24Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:09:32Z._

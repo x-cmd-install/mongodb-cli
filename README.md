@@ -12,6 +12,18 @@ MongoDB CLI enable you to manage your MongoDB via ops manager and cloud manager
 x install mongodb-cli
 ```
 
+## Code insight
+
+Total: **51,493** lines of code across **791** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 48,194 | 11,481 | 9,123 | 732 |
+| Yaml | 1,236 | 27 | 44 | 3 |
+| Sh | 648 | 425 | 222 | 28 |
+| Dockerfile | 525 | 0 | 160 | 27 |
+| Bash | 344 | 67 | 90 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/mongodb/mongodb-cli>
@@ -22,6 +34,25 @@ x install mongodb-cli
 - **Latest**: `mongocli/v2.0.7` (2026-01-08)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 18
+
+## Popularity
+
+- **Stars**: 8 · **Forks**: 7 · **Open issues**: 2 · **Contributors**: 43
+
+## Totals (cumulative)
+
+- **Releases**: 9 · **Merged PRs**: 100 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 2826
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 13 | 1 | 0 | 0 | 13 |
+| last60d | 2026-07-12 | 0 | 19 | 1 | 0 | 0 | 19 |
+| 90d | 2026-06-12 | 0 | 24 | 1 | 0 | 0 | 24 |
+| last180d | 2026-03-14 | 0 | 36 | 1 | 0 | 0 | 36 |
+| 360d | 2025-09-15 | 2 | 60 | 1 | 1 | 0 | 60 |
+| last720d | 2024-09-20 | 9 | 100 | 1 | 2 | 0 | 126 |
 
 ## Release assets
 
@@ -46,33 +77,14 @@ x install mongodb-cli
 | [mongocli_2.0.7_windows_x86_64.msi](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_windows_x86_64.msi) | 6.4 MiB | `native/win/x64` |
 | [mongocli_2.0.7_windows_x86_64.zip](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_windows_x86_64.zip) | 6.2 MiB | `native/win/x64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 8 · **Forks**: 7 · **Open issues**: 2 · **Contributors**: 43
+Reported by **12** distros on [repology.org](https://repology.org/project/mongodb-cli). **7** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 9 · **Merged PRs**: 100 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 2826
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 13 | 1 | 0 | 0 | 13 |
-| 90d | 2026-06-12 | 0 | 24 | 1 | 0 | 0 | 24 |
-| 360d | 2025-09-15 | 2 | 60 | 1 | 1 | 0 | 60 |
-
-## Code size
-
-Total: **51,493** lines of code across **791** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 48,194 | 11,481 | 9,123 | 732 |
-| Yaml | 1,236 | 27 | 44 | 3 |
-| Sh | 648 | 425 | 222 | 28 |
-| Dockerfile | 525 | 0 | 160 | 27 |
-| Bash | 344 | 67 | 90 | 1 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.0.7` | ✅ latest |
+| Nix unstable | `2.0.7` | ✅ latest |
 
 ## Improve this data
 
@@ -83,4 +95,4 @@ Install metadata for mongodb-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:07:24Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:09:32Z._
