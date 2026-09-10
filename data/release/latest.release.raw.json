@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 6237969,
       "digest": "sha256:9830e9b0e8996301103d7a26347368640628ec3d216effb89b390aa1936f735e",
-      "download_count": 298,
+      "download_count": 299,
       "created_at": "2026-01-08T09:27:05Z",
       "updated_at": "2026-01-08T09:27:06Z",
       "browser_download_url": "https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_linux_x86_64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 5975615,
       "digest": "sha256:9207ed57712a2820563061d17aed5426a6d27a3aa5cb6a4a889920fb9a617081",
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2026-01-08T09:27:07Z",
       "updated_at": "2026-01-08T09:27:08Z",
       "browser_download_url": "https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_macos_arm64.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 6566584,
       "digest": "sha256:f5078c83bb92e44b21d8f89741ed828a1b09a08136ecf8f664b9f8abe7510e6b",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-01-08T09:27:06Z",
       "updated_at": "2026-01-08T09:27:07Z",
       "browser_download_url": "https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_macos_x86_64.zip"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 6509677,
       "digest": "sha256:e927fe5bfdbfa320b1753321abc0628d7d68b6470dc1492c3c3b5545f510d3e2",
-      "download_count": 46,
+      "download_count": 47,
       "created_at": "2026-01-08T09:27:08Z",
       "updated_at": "2026-01-08T09:27:09Z",
       "browser_download_url": "https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_windows_x86_64.zip"

@@ -7,7 +7,7 @@ about:
   latestVersion: "mongocli/v2.0.7"
   latestRelease: "mongocli/v2.0.7"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:09:24Z
+  collectedAt: 2026-09-10T23:34:16Z
 timeline:
   created: 2025-01-21
   lastCommit: 2026-09-08
@@ -87,7 +87,7 @@ total:
   commit: 2826
 ---
 path: /home/runner/.x-repo/github.com/mongodb/mongodb-cli
-collectedAt: 2026-09-10T20:09:27Z
+collectedAt: 2026-09-10T23:34:19Z
 loc:
   Go:
     code: 48194
