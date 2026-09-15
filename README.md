@@ -14,11 +14,11 @@ x install mongodb-cli
 
 ## Code insight
 
-Total: **51,493** lines of code across **791** files in the top 5 languages.
+Total: **51,584** lines of code across **792** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 48,194 | 11,481 | 9,123 | 732 |
+| Go | 48,285 | 11,497 | 9,148 | 733 |
 | Yaml | 1,236 | 27 | 44 | 3 |
 | Sh | 648 | 425 | 222 | 28 |
 | Dockerfile | 525 | 0 | 160 | 27 |
@@ -32,7 +32,7 @@ Total: **51,493** lines of code across **791** files in the top 5 languages.
 ## Release
 
 - **Latest**: `mongocli/v2.0.7` (2026-01-08)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-09-14
 - **Assets in release**: 18
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **51,493** lines of code across **791** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 100 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 2826
+- **Releases**: 9 · **Merged PRs**: 101 · **Open PRs**: 3 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 2827
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 13 | 1 | 0 | 0 | 11 |
-| last60d | 2026-07-16 | 0 | 18 | 1 | 0 | 0 | 18 |
-| 90d | 2026-06-16 | 0 | 23 | 1 | 0 | 0 | 24 |
-| last180d | 2026-03-18 | 0 | 35 | 1 | 0 | 0 | 36 |
-| 360d | 2025-09-19 | 2 | 59 | 1 | 1 | 0 | 59 |
-| last720d | 2024-09-24 | 9 | 100 | 1 | 2 | 0 | 126 |
+| 30d | 2026-08-16 | 0 | 14 | 3 | 0 | 0 | 12 |
+| last60d | 2026-07-17 | 0 | 19 | 3 | 0 | 0 | 19 |
+| 90d | 2026-06-17 | 0 | 24 | 3 | 0 | 0 | 25 |
+| last180d | 2026-03-19 | 0 | 36 | 3 | 0 | 0 | 37 |
+| 360d | 2025-09-20 | 2 | 60 | 3 | 1 | 0 | 60 |
+| last720d | 2024-09-25 | 9 | 101 | 3 | 2 | 0 | 125 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for mongodb-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T04:42:33Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T04:44:25Z._
