@@ -14,13 +14,13 @@ x install mongodb-cli
 
 ## Code insight
 
-Total: **51,584** lines of code across **792** files in the top 5 languages.
+Total: **51,654** lines of code across **793** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 48,285 | 11,497 | 9,148 | 733 |
-| Yaml | 1,236 | 27 | 44 | 3 |
-| Sh | 648 | 425 | 222 | 28 |
+| Go | 48,285 | 11,498 | 9,148 | 733 |
+| Yaml | 1,247 | 27 | 44 | 3 |
+| Sh | 707 | 459 | 241 | 29 |
 | Dockerfile | 525 | 0 | 160 | 27 |
 | Bash | 344 | 67 | 90 | 1 |
 
@@ -41,18 +41,18 @@ Total: **51,584** lines of code across **792** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 105 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 2831
+- **Releases**: 9 · **Merged PRs**: 106 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 2832
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 18 | 0 | 0 | 0 | 16 |
-| last60d | 2026-07-18 | 0 | 23 | 0 | 0 | 0 | 23 |
-| 90d | 2026-06-18 | 0 | 28 | 0 | 0 | 0 | 29 |
-| last180d | 2026-03-20 | 0 | 40 | 0 | 0 | 0 | 41 |
-| 360d | 2025-09-21 | 2 | 64 | 0 | 1 | 0 | 64 |
-| last720d | 2024-09-26 | 9 | 105 | 0 | 2 | 0 | 129 |
+| 30d | 2026-08-18 | 0 | 17 | 0 | 0 | 0 | 17 |
+| last60d | 2026-07-19 | 0 | 24 | 0 | 0 | 0 | 24 |
+| 90d | 2026-06-19 | 0 | 29 | 0 | 0 | 0 | 30 |
+| last180d | 2026-03-21 | 0 | 41 | 0 | 0 | 0 | 42 |
+| 360d | 2025-09-22 | 2 | 65 | 0 | 1 | 0 | 65 |
+| last720d | 2024-09-27 | 9 | 106 | 0 | 2 | 0 | 130 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for mongodb-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T04:38:40Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T04:43:01Z._
