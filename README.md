@@ -31,7 +31,7 @@ Total: **51,654** lines of code across **793** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `mongocli/v2.0.7` (2026-01-08)
+- **Latest**: `mongocli/v2.0.8` (2026-09-17)
 - **Last commit**: 2026-09-16
 - **Assets in release**: 18
 
@@ -41,41 +41,41 @@ Total: **51,654** lines of code across **793** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 106 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 2832
+- **Releases**: 10 · **Merged PRs**: 106 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 2832
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 17 | 0 | 0 | 0 | 17 |
-| last60d | 2026-07-19 | 0 | 24 | 0 | 0 | 0 | 24 |
-| 90d | 2026-06-19 | 0 | 29 | 0 | 0 | 0 | 30 |
-| last180d | 2026-03-21 | 0 | 41 | 0 | 0 | 0 | 42 |
-| 360d | 2025-09-22 | 2 | 65 | 0 | 1 | 0 | 65 |
-| last720d | 2024-09-27 | 9 | 106 | 0 | 2 | 0 | 130 |
+| 30d | 2026-08-19 | 1 | 17 | 0 | 0 | 0 | 17 |
+| last60d | 2026-07-20 | 1 | 24 | 0 | 0 | 0 | 24 |
+| 90d | 2026-06-20 | 1 | 29 | 0 | 0 | 0 | 30 |
+| last180d | 2026-03-22 | 1 | 41 | 0 | 0 | 0 | 42 |
+| 360d | 2025-09-23 | 3 | 64 | 0 | 1 | 0 | 65 |
+| last720d | 2024-09-28 | 10 | 106 | 0 | 2 | 0 | 130 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/checksums.txt) | 986 B | `other` |
-| [checksums.txt.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/checksums.txt.sig) | 833 B | `other` |
-| [mongocli_2.0.7_linux_arm64.deb](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_linux_arm64.deb) | 5.5 MiB | `native/linux/arm64` |
-| [mongocli_2.0.7_linux_arm64.deb.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_linux_arm64.deb.sig) | 833 B | `native/linux/arm64` |
-| [mongocli_2.0.7_linux_arm64.rpm](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_linux_arm64.rpm) | 5.5 MiB | `native/linux/arm64` |
-| [mongocli_2.0.7_linux_arm64.rpm.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_linux_arm64.rpm.sig) | 833 B | `native/linux/arm64` |
-| [mongocli_2.0.7_linux_arm64.tar.gz](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_linux_arm64.tar.gz) | 5.4 MiB | `native/linux/arm64` |
-| [mongocli_2.0.7_linux_arm64.tar.gz.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_linux_arm64.tar.gz.sig) | 833 B | `native/linux/arm64` |
-| [mongocli_2.0.7_linux_x86_64.deb](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_linux_x86_64.deb) | 6.1 MiB | `native/linux/x64` |
-| [mongocli_2.0.7_linux_x86_64.deb.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_linux_x86_64.deb.sig) | 833 B | `native/linux/x64` |
-| [mongocli_2.0.7_linux_x86_64.rpm](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_linux_x86_64.rpm) | 6.2 MiB | `native/linux/x64` |
-| [mongocli_2.0.7_linux_x86_64.rpm.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_linux_x86_64.rpm.sig) | 833 B | `native/linux/x64` |
-| [mongocli_2.0.7_linux_x86_64.tar.gz](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_linux_x86_64.tar.gz) | 5.9 MiB | `native/linux/x64` |
-| [mongocli_2.0.7_linux_x86_64.tar.gz.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_linux_x86_64.tar.gz.sig) | 833 B | `native/linux/x64` |
-| [mongocli_2.0.7_macos_arm64.zip](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_macos_arm64.zip) | 5.7 MiB | `native/darwin/arm64` |
-| [mongocli_2.0.7_macos_x86_64.zip](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_macos_x86_64.zip) | 6.3 MiB | `native/darwin/x64` |
-| [mongocli_2.0.7_windows_x86_64.msi](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_windows_x86_64.msi) | 6.4 MiB | `native/win/x64` |
-| [mongocli_2.0.7_windows_x86_64.zip](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.7/mongocli_2.0.7_windows_x86_64.zip) | 6.2 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/checksums.txt) | 986 B | `other` |
+| [checksums.txt.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/checksums.txt.sig) | 833 B | `other` |
+| [mongocli_2.0.8_linux_arm64.deb](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_arm64.deb) | 7.5 MiB | `native/linux/arm64` |
+| [mongocli_2.0.8_linux_arm64.deb.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_arm64.deb.sig) | 833 B | `native/linux/arm64` |
+| [mongocli_2.0.8_linux_arm64.rpm](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_arm64.rpm) | 7.6 MiB | `native/linux/arm64` |
+| [mongocli_2.0.8_linux_arm64.rpm.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_arm64.rpm.sig) | 833 B | `native/linux/arm64` |
+| [mongocli_2.0.8_linux_arm64.tar.gz](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_arm64.tar.gz) | 7.3 MiB | `native/linux/arm64` |
+| [mongocli_2.0.8_linux_arm64.tar.gz.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_arm64.tar.gz.sig) | 833 B | `native/linux/arm64` |
+| [mongocli_2.0.8_linux_x86_64.deb](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_x86_64.deb) | 8.5 MiB | `native/linux/x64` |
+| [mongocli_2.0.8_linux_x86_64.deb.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_x86_64.deb.sig) | 833 B | `native/linux/x64` |
+| [mongocli_2.0.8_linux_x86_64.rpm](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_x86_64.rpm) | 8.5 MiB | `native/linux/x64` |
+| [mongocli_2.0.8_linux_x86_64.rpm.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_x86_64.rpm.sig) | 833 B | `native/linux/x64` |
+| [mongocli_2.0.8_linux_x86_64.tar.gz](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_x86_64.tar.gz) | 8.1 MiB | `native/linux/x64` |
+| [mongocli_2.0.8_linux_x86_64.tar.gz.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_x86_64.tar.gz.sig) | 833 B | `native/linux/x64` |
+| [mongocli_2.0.8_macos_arm64.zip](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_macos_arm64.zip) | 7.8 MiB | `native/darwin/arm64` |
+| [mongocli_2.0.8_macos_x86_64.zip](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_macos_x86_64.zip) | 8.7 MiB | `native/darwin/x64` |
+| [mongocli_2.0.8_windows_x86_64.msi](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_windows_x86_64.msi) | 8.6 MiB | `native/win/x64` |
+| [mongocli_2.0.8_windows_x86_64.zip](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_windows_x86_64.zip) | 8.5 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -86,4 +86,4 @@ Install metadata for mongodb-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T04:43:01Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T04:28:52Z._
