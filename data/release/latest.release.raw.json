@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 8523801,
       "digest": "sha256:1b57153f9852c2438623ada41282964f9d0693d72fa2c8464f17f31963bef888",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-09-17T16:34:51Z",
       "updated_at": "2026-09-17T16:39:11Z",
       "browser_download_url": "https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_x86_64.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 8922963,
       "digest": "sha256:c8e4edc726838122b170d5d93e25fb6b09f9bde3ca840be1a6258490427d8f91",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-17T16:40:11Z",
       "updated_at": "2026-09-17T16:40:13Z",
       "browser_download_url": "https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_windows_x86_64.zip"
