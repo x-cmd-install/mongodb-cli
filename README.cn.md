@@ -14,11 +14,11 @@ x install mongodb-cli
 
 ## 代码洞察
 
-合计: **51,654** 行代码（覆盖前 5 种语言、共 **793** 个文件）。
+合计: **51,658** 行代码（覆盖前 5 种语言、共 **793** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 48,285 | 11,498 | 9,148 | 733 |
+| Go | 48,289 | 11,497 | 9,148 | 733 |
 | Yaml | 1,247 | 27 | 44 | 3 |
 | Sh | 707 | 459 | 241 | 29 |
 | Dockerfile | 525 | 0 | 160 | 27 |
@@ -31,8 +31,8 @@ x install mongodb-cli
 
 ## 发布
 
-- **最新版本**: `mongocli/v2.0.8` (2026-09-17)
-- **最近提交**: 2026-09-16
+- **最新版本**: `mongocli/v2.0.9` (2026-09-29)
+- **最近提交**: 2026-09-29
 - **Release 含资产**: 18 个
 
 ## 流行度
@@ -41,41 +41,41 @@ x install mongodb-cli
 
 ## 累计统计
 
-- **发布数**: 10 · **已合并 PR**: 106 · **开放 PR**: 2 · **已关闭 issue**: 2 · **开放 issue**: 0 · **提交数**: 2832
+- **发布数**: 11 · **已合并 PR**: 107 · **开放 PR**: 2 · **已关闭 issue**: 2 · **开放 issue**: 0 · **提交数**: 2833
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 1 | 16 | 2 | 0 | 0 | 11 |
-| last60d | 2026-07-31 | 1 | 21 | 2 | 0 | 0 | 20 |
-| 90d | 2026-07-01 | 1 | 26 | 2 | 0 | 0 | 26 |
-| last180d | 2026-04-02 | 1 | 40 | 2 | 0 | 0 | 40 |
-| 360d | 2025-10-04 | 3 | 64 | 2 | 1 | 0 | 63 |
-| last720d | 2024-10-09 | 10 | 106 | 2 | 2 | 0 | 130 |
+| 30d | 2026-08-31 | 2 | 16 | 2 | 0 | 0 | 12 |
+| last60d | 2026-08-01 | 2 | 22 | 2 | 0 | 0 | 21 |
+| 90d | 2026-07-02 | 2 | 27 | 2 | 0 | 0 | 27 |
+| last180d | 2026-04-03 | 2 | 41 | 2 | 0 | 0 | 41 |
+| 360d | 2025-10-05 | 4 | 65 | 2 | 1 | 0 | 64 |
+| last720d | 2024-10-10 | 11 | 107 | 2 | 2 | 0 | 130 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/checksums.txt) | 986 B | `other` |
-| [checksums.txt.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/checksums.txt.sig) | 833 B | `other` |
-| [mongocli_2.0.8_linux_arm64.deb](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_arm64.deb) | 7.5 MiB | `native/linux/arm64` |
-| [mongocli_2.0.8_linux_arm64.deb.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_arm64.deb.sig) | 833 B | `native/linux/arm64` |
-| [mongocli_2.0.8_linux_arm64.rpm](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_arm64.rpm) | 7.6 MiB | `native/linux/arm64` |
-| [mongocli_2.0.8_linux_arm64.rpm.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_arm64.rpm.sig) | 833 B | `native/linux/arm64` |
-| [mongocli_2.0.8_linux_arm64.tar.gz](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_arm64.tar.gz) | 7.3 MiB | `native/linux/arm64` |
-| [mongocli_2.0.8_linux_arm64.tar.gz.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_arm64.tar.gz.sig) | 833 B | `native/linux/arm64` |
-| [mongocli_2.0.8_linux_x86_64.deb](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_x86_64.deb) | 8.5 MiB | `native/linux/x64` |
-| [mongocli_2.0.8_linux_x86_64.deb.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_x86_64.deb.sig) | 833 B | `native/linux/x64` |
-| [mongocli_2.0.8_linux_x86_64.rpm](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_x86_64.rpm) | 8.5 MiB | `native/linux/x64` |
-| [mongocli_2.0.8_linux_x86_64.rpm.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_x86_64.rpm.sig) | 833 B | `native/linux/x64` |
-| [mongocli_2.0.8_linux_x86_64.tar.gz](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_x86_64.tar.gz) | 8.1 MiB | `native/linux/x64` |
-| [mongocli_2.0.8_linux_x86_64.tar.gz.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_linux_x86_64.tar.gz.sig) | 833 B | `native/linux/x64` |
-| [mongocli_2.0.8_macos_arm64.zip](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_macos_arm64.zip) | 7.8 MiB | `native/darwin/arm64` |
-| [mongocli_2.0.8_macos_x86_64.zip](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_macos_x86_64.zip) | 8.7 MiB | `native/darwin/x64` |
-| [mongocli_2.0.8_windows_x86_64.msi](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_windows_x86_64.msi) | 8.6 MiB | `native/win/x64` |
-| [mongocli_2.0.8_windows_x86_64.zip](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.8/mongocli_2.0.8_windows_x86_64.zip) | 8.5 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.9/checksums.txt) | 986 B | `other` |
+| [checksums.txt.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.9/checksums.txt.sig) | 833 B | `other` |
+| [mongocli_2.0.9_linux_arm64.deb](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.9/mongocli_2.0.9_linux_arm64.deb) | 7.6 MiB | `native/linux/arm64` |
+| [mongocli_2.0.9_linux_arm64.deb.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.9/mongocli_2.0.9_linux_arm64.deb.sig) | 833 B | `native/linux/arm64` |
+| [mongocli_2.0.9_linux_arm64.rpm](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.9/mongocli_2.0.9_linux_arm64.rpm) | 7.5 MiB | `native/linux/arm64` |
+| [mongocli_2.0.9_linux_arm64.rpm.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.9/mongocli_2.0.9_linux_arm64.rpm.sig) | 833 B | `native/linux/arm64` |
+| [mongocli_2.0.9_linux_arm64.tar.gz](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.9/mongocli_2.0.9_linux_arm64.tar.gz) | 7.3 MiB | `native/linux/arm64` |
+| [mongocli_2.0.9_linux_arm64.tar.gz.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.9/mongocli_2.0.9_linux_arm64.tar.gz.sig) | 833 B | `native/linux/arm64` |
+| [mongocli_2.0.9_linux_x86_64.deb](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.9/mongocli_2.0.9_linux_x86_64.deb) | 8.5 MiB | `native/linux/x64` |
+| [mongocli_2.0.9_linux_x86_64.deb.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.9/mongocli_2.0.9_linux_x86_64.deb.sig) | 833 B | `native/linux/x64` |
+| [mongocli_2.0.9_linux_x86_64.rpm](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.9/mongocli_2.0.9_linux_x86_64.rpm) | 8.5 MiB | `native/linux/x64` |
+| [mongocli_2.0.9_linux_x86_64.rpm.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.9/mongocli_2.0.9_linux_x86_64.rpm.sig) | 833 B | `native/linux/x64` |
+| [mongocli_2.0.9_linux_x86_64.tar.gz](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.9/mongocli_2.0.9_linux_x86_64.tar.gz) | 8.1 MiB | `native/linux/x64` |
+| [mongocli_2.0.9_linux_x86_64.tar.gz.sig](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.9/mongocli_2.0.9_linux_x86_64.tar.gz.sig) | 833 B | `native/linux/x64` |
+| [mongocli_2.0.9_macos_arm64.zip](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.9/mongocli_2.0.9_macos_arm64.zip) | 7.8 MiB | `native/darwin/arm64` |
+| [mongocli_2.0.9_macos_x86_64.zip](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.9/mongocli_2.0.9_macos_x86_64.zip) | 8.7 MiB | `native/darwin/x64` |
+| [mongocli_2.0.9_windows_x86_64.msi](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.9/mongocli_2.0.9_windows_x86_64.msi) | 8.6 MiB | `native/win/x64` |
+| [mongocli_2.0.9_windows_x86_64.zip](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.9/mongocli_2.0.9_windows_x86_64.zip) | 8.5 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -86,4 +86,4 @@ mongodb-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260929.yml` · 2026-09-29T05:33:35Z._
+_数据快照: `data/card/260930.yml` · 2026-09-30T05:21:53Z._
