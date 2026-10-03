@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 8524342,
       "digest": "sha256:d5a5ffa3e6757d3b599acc831e63d0c9291bb794248e8b54b33842852f191d2e",
-      "download_count": 4,
+      "download_count": 16,
       "created_at": "2026-09-29T17:32:15Z",
       "updated_at": "2026-09-29T17:32:16Z",
       "browser_download_url": "https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.9/mongocli_2.0.9_linux_x86_64.tar.gz"
