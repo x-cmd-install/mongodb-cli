@@ -47,12 +47,12 @@ Total: **51,697** lines of code across **793** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 6 | 0 | 0 | 0 | 6 |
-| last60d | 2026-08-23 | 2 | 23 | 0 | 0 | 0 | 22 |
-| 90d | 2026-07-24 | 2 | 28 | 0 | 0 | 0 | 30 |
-| last180d | 2026-04-25 | 2 | 44 | 0 | 0 | 0 | 45 |
-| 360d | 2025-10-27 | 3 | 66 | 0 | 1 | 0 | 65 |
-| last720d | 2024-11-01 | 11 | 112 | 0 | 2 | 0 | 129 |
+| 30d | 2026-09-23 | 1 | 6 | 0 | 0 | 0 | 6 |
+| last60d | 2026-08-24 | 2 | 23 | 0 | 0 | 0 | 22 |
+| 90d | 2026-07-25 | 2 | 28 | 0 | 0 | 0 | 30 |
+| last180d | 2026-04-26 | 2 | 44 | 0 | 0 | 0 | 45 |
+| 360d | 2025-10-28 | 3 | 65 | 0 | 1 | 0 | 65 |
+| last720d | 2024-11-02 | 11 | 112 | 0 | 2 | 0 | 129 |
 
 ## Release assets
 
@@ -77,6 +77,15 @@ Total: **51,697** lines of code across **793** files in the top 5 languages.
 | [mongocli_2.0.9_windows_x86_64.msi](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.9/mongocli_2.0.9_windows_x86_64.msi) | 8.6 MiB | `native/win/x64` |
 | [mongocli_2.0.9_windows_x86_64.zip](https://github.com/mongodb/mongodb-cli/releases/download/mongocli/v2.0.9/mongocli_2.0.9_windows_x86_64.zip) | 8.5 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **12** distros on [repology.org](https://repology.org/project/mongodb-cli). **6** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.0.9` | ✅ latest |
+| Nix unstable | `2.0.9` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for mongodb-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mongodb-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -86,4 +95,4 @@ Install metadata for mongodb-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:27:04Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:32:30Z._
