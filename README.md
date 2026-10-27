@@ -41,18 +41,18 @@ Total: **51,697** lines of code across **793** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 112 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 2838
+- **Releases**: 11 · **Merged PRs**: 112 · **Open PRs**: 2 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 2838
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 6 | 0 | 0 | 0 | 5 |
-| last60d | 2026-08-27 | 2 | 22 | 0 | 0 | 0 | 21 |
-| 90d | 2026-07-28 | 2 | 27 | 0 | 0 | 0 | 27 |
-| last180d | 2026-04-29 | 2 | 43 | 0 | 0 | 0 | 43 |
-| 360d | 2025-10-31 | 3 | 65 | 0 | 1 | 0 | 65 |
-| last720d | 2024-11-05 | 11 | 112 | 0 | 2 | 0 | 129 |
+| 30d | 2026-09-27 | 1 | 6 | 2 | 0 | 0 | 5 |
+| last60d | 2026-08-28 | 2 | 22 | 2 | 0 | 0 | 21 |
+| 90d | 2026-07-29 | 2 | 27 | 2 | 0 | 0 | 27 |
+| last180d | 2026-04-30 | 2 | 43 | 2 | 0 | 0 | 43 |
+| 360d | 2025-11-01 | 3 | 65 | 2 | 1 | 0 | 65 |
+| last720d | 2024-11-06 | 11 | 112 | 2 | 2 | 0 | 129 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for mongodb-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:29:42Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T04:48:37Z._
