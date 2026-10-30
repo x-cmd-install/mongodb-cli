@@ -14,13 +14,13 @@ x install mongodb-cli
 
 ## Code insight
 
-Total: **51,697** lines of code across **793** files in the top 5 languages.
+Total: **51,658** lines of code across **794** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 48,327 | 11,511 | 9,152 | 733 |
-| Yaml | 1,247 | 27 | 44 | 3 |
-| Sh | 707 | 459 | 241 | 29 |
+| Go | 48,345 | 11,525 | 9,153 | 733 |
+| Yaml | 1,162 | 27 | 44 | 3 |
+| Sh | 735 | 487 | 249 | 30 |
 | Dockerfile | 525 | 0 | 160 | 27 |
 | Bash | 344 | 67 | 90 | 1 |
 
@@ -32,7 +32,7 @@ Total: **51,697** lines of code across **793** files in the top 5 languages.
 ## Release
 
 - **Latest**: `mongocli/v2.0.9` (2026-09-29)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-29
 - **Assets in release**: 18
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **51,697** lines of code across **793** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 114 · **Open PRs**: 3 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 2840
+- **Releases**: 11 · **Merged PRs**: 117 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 2843
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 1 | 6 | 3 | 0 | 0 | 7 |
-| last60d | 2026-08-30 | 2 | 24 | 3 | 0 | 0 | 23 |
-| 90d | 2026-07-31 | 2 | 29 | 3 | 0 | 0 | 29 |
-| last180d | 2026-05-02 | 2 | 45 | 3 | 0 | 0 | 45 |
-| 360d | 2025-11-03 | 3 | 67 | 3 | 1 | 0 | 67 |
-| last720d | 2024-11-08 | 11 | 114 | 3 | 2 | 0 | 131 |
+| 30d | 2026-09-30 | 0 | 9 | 0 | 0 | 0 | 10 |
+| last60d | 2026-08-31 | 2 | 26 | 0 | 0 | 0 | 26 |
+| 90d | 2026-08-01 | 2 | 32 | 0 | 0 | 0 | 32 |
+| last180d | 2026-05-03 | 2 | 48 | 0 | 0 | 0 | 48 |
+| 360d | 2025-11-04 | 3 | 70 | 0 | 1 | 0 | 70 |
+| last720d | 2024-11-09 | 11 | 117 | 0 | 2 | 0 | 133 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for mongodb-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:33:26Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:33:24Z._
