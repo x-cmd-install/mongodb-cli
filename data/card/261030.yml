@@ -1,0 +1,153 @@
+about:
+  description: "MongoDB CLI enable you to manage your MongoDB via ops manager and cloud manager"
+  license: Apache-2.0
+  homepage: 
+  head: 728e538
+  archived: false
+  latestVersion: "mongocli/v2.0.9"
+  latestRelease: "mongocli/v2.0.9"
+  latestPrerelease: ""
+  collectedAt: 2026-10-30T05:33:15Z
+timeline:
+  created: 2025-01-21
+  lastCommit: 2026-10-29
+  lastVersion: 2026-09-29
+  lastRelease: 2026-09-29
+  lastPrerelease: 
+popularity:
+  star: 9
+  watcher: 4
+  fork: 9
+  release: 11
+  contributor: 44
+  pullRequest: 140
+  issue: 2
+language:
+  Go: 1868180
+  Shell: 64968
+  Dockerfile: 17243
+  Python: 11303
+  Makefile: 5106
+totalBytes: 1966800
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 0
+    mergedPR: 9
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 10
+  last60d:
+    since: 2026-08-31
+    release: 2
+    mergedPR: 26
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 26
+  last90d:
+    since: 2026-08-01
+    release: 2
+    mergedPR: 32
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 32
+  last180d:
+    since: 2026-05-03
+    release: 2
+    mergedPR: 48
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 48
+  last360d:
+    since: 2025-11-04
+    release: 3
+    mergedPR: 70
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 70
+  last720d:
+    since: 2024-11-09
+    release: 11
+    mergedPR: 117
+    openPR: 0
+    closedIssue: 2
+    openIssue: 0
+    commit: 133
+total:
+  release: 11
+  mergedPR: 117
+  openPR: 0
+  closedIssue: 2
+  openIssue: 0
+  commit: 2843
+---
+path: /home/runner/.x-repo/github.com/mongodb/mongodb-cli
+collectedAt: 2026-10-30T05:33:18Z
+loc:
+  Go:
+    code: 48345
+    comments: 11525
+    blanks: 9153
+    files: 733
+  Yaml:
+    code: 1162
+    comments: 27
+    blanks: 44
+    files: 3
+  Sh:
+    code: 735
+    comments: 487
+    blanks: 249
+    files: 30
+  Dockerfile:
+    code: 525
+    comments: 0
+    blanks: 160
+    files: 27
+  Bash:
+    code: 344
+    comments: 67
+    blanks: 90
+    files: 1
+  Python:
+    code: 232
+    comments: 16
+    blanks: 45
+    files: 1
+  Json:
+    code: 195
+    comments: 0
+    blanks: 0
+    files: 4
+  Makefile:
+    code: 120
+    comments: 2
+    blanks: 31
+    files: 1
+  Markdown:
+    code: 0
+    comments: 621
+    blanks: 139
+    files: 11
+  Text:
+    code: 0
+    comments: 24941
+    blanks: 7131
+    files: 390
+total:
+  code: 51684
+  comments: 37686
+  blanks: 17042
+  files: 1201
+---
+
+---
+  - NOTICE
+  - NOTICE
+  - NOTICE
+  - mongocli
