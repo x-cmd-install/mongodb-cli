@@ -25,23 +25,23 @@
 - repo: chocolatey
   binname: mongodb-cli
   visiblename: MongoDB Command Line Interface
-  version: 2.0.9
+  version: 2.0.10
   origversion: null
-  status: outdated
+  status: newest
   summary: MongoDB CLI for Cloud Manager and Ops Manager
 - repo: chocolatey
   binname: mongodb-cli.install
   visiblename: MongoDB Command Line Interface (Install)
-  version: 2.0.9
+  version: 2.0.10
   origversion: null
-  status: outdated
+  status: newest
   summary: MongoDB CLI for Cloud Manager and Ops Manager
 - repo: chocolatey
   binname: mongodb-cli.portable
   visiblename: MongoDB Command Line Interface (Portable)
-  version: 2.0.9
+  version: 2.0.10
   origversion: null
-  status: outdated
+  status: newest
   summary: MongoDB CLI for Cloud Manager and Ops Manager
 - repo: homebrew
   srcname: mongocli
