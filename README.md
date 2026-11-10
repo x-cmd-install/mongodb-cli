@@ -32,7 +32,7 @@ Total: **51,658** lines of code across **794** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.0.10` (2026-10-30)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-10
 - **Assets in release**: 18
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **51,658** lines of code across **794** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 120 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 2846
+- **Releases**: 12 · **Merged PRs**: 121 · **Open PRs**: 4 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 2847
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 11 | 0 | 0 | 0 | 12 |
-| last60d | 2026-09-09 | 3 | 20 | 0 | 0 | 0 | 18 |
-| 90d | 2026-08-10 | 3 | 34 | 0 | 0 | 0 | 33 |
-| last180d | 2026-05-12 | 3 | 47 | 0 | 0 | 0 | 47 |
-| 360d | 2025-11-13 | 4 | 72 | 0 | 1 | 0 | 72 |
-| last720d | 2024-11-18 | 12 | 120 | 0 | 2 | 0 | 133 |
+| 30d | 2026-10-11 | 1 | 12 | 4 | 0 | 0 | 13 |
+| last60d | 2026-09-11 | 3 | 20 | 4 | 0 | 0 | 19 |
+| 90d | 2026-08-12 | 3 | 34 | 4 | 0 | 0 | 34 |
+| last180d | 2026-05-14 | 3 | 48 | 4 | 0 | 0 | 48 |
+| 360d | 2025-11-15 | 4 | 73 | 4 | 1 | 0 | 73 |
+| last720d | 2024-11-20 | 12 | 121 | 4 | 2 | 0 | 134 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for mongodb-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T05:48:58Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:02:46Z._
