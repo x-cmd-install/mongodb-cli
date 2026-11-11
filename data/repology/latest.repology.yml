@@ -61,9 +61,9 @@
   srcname: databases/mongocli
   binname: mongocli
   visiblename: mongocli
-  version: 2.0.9
+  version: 2.0.10
   origversion: null
-  status: outdated
+  status: newest
   summary: Manage your MongoDB from the terminal
   maintainers:
     - commitmaniac@github
