@@ -14,11 +14,11 @@ x install mongodb-cli
 
 ## Code insight
 
-Total: **51,658** lines of code across **794** files in the top 5 languages.
+Total: **52,781** lines of code across **801** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 48,345 | 11,525 | 9,153 | 733 |
+| Go | 49,468 | 11,863 | 9,374 | 740 |
 | Yaml | 1,162 | 27 | 44 | 3 |
 | Sh | 735 | 487 | 249 | 30 |
 | Dockerfile | 525 | 0 | 160 | 27 |
@@ -37,22 +37,22 @@ Total: **51,658** lines of code across **794** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9 · **Forks**: 9 · **Open issues**: 2 · **Contributors**: 43
+- **Stars**: 9 · **Forks**: 9 · **Open issues**: 2 · **Contributors**: 44
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 121 · **Open PRs**: 4 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 2847
+- **Releases**: 12 · **Merged PRs**: 122 · **Open PRs**: 3 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 2848
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 1 | 12 | 4 | 0 | 0 | 13 |
-| last60d | 2026-09-11 | 3 | 20 | 4 | 0 | 0 | 19 |
-| 90d | 2026-08-12 | 3 | 34 | 4 | 0 | 0 | 34 |
-| last180d | 2026-05-14 | 3 | 48 | 4 | 0 | 0 | 48 |
-| 360d | 2025-11-15 | 4 | 73 | 4 | 1 | 0 | 73 |
-| last720d | 2024-11-20 | 12 | 121 | 4 | 2 | 0 | 134 |
+| 30d | 2026-10-12 | 1 | 13 | 3 | 0 | 0 | 14 |
+| last60d | 2026-09-12 | 3 | 21 | 3 | 0 | 0 | 20 |
+| 90d | 2026-08-13 | 3 | 35 | 3 | 0 | 0 | 35 |
+| last180d | 2026-05-15 | 3 | 49 | 3 | 0 | 0 | 49 |
+| 360d | 2025-11-16 | 4 | 74 | 3 | 1 | 0 | 74 |
+| last720d | 2024-11-21 | 12 | 122 | 3 | 2 | 0 | 135 |
 
 ## Release assets
 
@@ -79,7 +79,7 @@ Total: **51,658** lines of code across **794** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/mongodb-cli). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/mongodb-cli). **5** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -95,4 +95,4 @@ Install metadata for mongodb-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:02:46Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T05:54:31Z._
