@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 8529509,
       "digest": "sha256:8807b0370ffaa50548eee67ad61abcd3715807cd85a09b546a51c1a553f8e291",
-      "download_count": 80,
+      "download_count": 97,
       "created_at": "2026-10-30T12:47:40Z",
       "updated_at": "2026-10-30T12:47:40Z",
       "browser_download_url": "https://github.com/mongodb/mongodb-cli/releases/download/v2.0.10/mongocli_2.0.10_linux_x86_64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 8194341,
       "digest": "sha256:21e8221a74a0d88bbd33a1000248353382f62f4a6bc4f2acdf60b70710f4c367",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-30T12:47:43Z",
       "updated_at": "2026-10-30T12:47:44Z",
       "browser_download_url": "https://github.com/mongodb/mongodb-cli/releases/download/v2.0.10/mongocli_2.0.10_macos_arm64.zip"
