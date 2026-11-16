@@ -47,12 +47,12 @@ Total: **52,781** lines of code across **801** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 2 | 13 | 4 | 0 | 0 | 15 |
-| last60d | 2026-09-16 | 4 | 17 | 4 | 0 | 0 | 21 |
-| 90d | 2026-08-17 | 4 | 36 | 4 | 0 | 0 | 36 |
-| last180d | 2026-05-19 | 4 | 50 | 4 | 0 | 0 | 50 |
-| 360d | 2025-11-20 | 5 | 73 | 4 | 1 | 0 | 75 |
-| last720d | 2024-11-25 | 13 | 123 | 4 | 2 | 0 | 136 |
+| 30d | 2026-10-17 | 2 | 13 | 4 | 0 | 0 | 11 |
+| last60d | 2026-09-17 | 4 | 17 | 4 | 0 | 0 | 17 |
+| 90d | 2026-08-18 | 4 | 34 | 4 | 0 | 0 | 34 |
+| last180d | 2026-05-20 | 4 | 50 | 4 | 0 | 0 | 50 |
+| 360d | 2025-11-21 | 5 | 73 | 4 | 1 | 0 | 73 |
+| last720d | 2024-11-26 | 13 | 123 | 4 | 2 | 0 | 136 |
 
 ## Release assets
 
@@ -79,7 +79,7 @@ Total: **52,781** lines of code across **801** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/mongodb-cli). **1** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/mongodb-cli). **5** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -95,4 +95,4 @@ Install metadata for mongodb-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:08:51Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T06:08:35Z._
