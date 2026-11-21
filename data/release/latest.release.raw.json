@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 8668232,
       "digest": "sha256:b10b9428c27ad429711b205c08855bc31d9e1c13d1809fbc77df68782f7c104c",
-      "download_count": 100,
+      "download_count": 116,
       "created_at": "2026-11-12T14:30:24Z",
       "updated_at": "2026-11-12T14:30:25Z",
       "browser_download_url": "https://github.com/mongodb/mongodb-cli/releases/download/v2.0.11/mongocli_2.0.11_linux_x86_64.tar.gz"
