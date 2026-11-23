@@ -47,12 +47,12 @@ Total: **52,781** lines of code across **801** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 2 | 14 | 3 | 0 | 0 | 9 |
-| last60d | 2026-09-23 | 3 | 20 | 3 | 0 | 0 | 19 |
-| 90d | 2026-08-24 | 4 | 37 | 3 | 0 | 0 | 36 |
-| last180d | 2026-05-26 | 4 | 51 | 3 | 0 | 0 | 51 |
-| 360d | 2025-11-27 | 5 | 75 | 3 | 1 | 0 | 76 |
-| last720d | 2024-12-02 | 13 | 126 | 3 | 2 | 0 | 138 |
+| 30d | 2026-10-24 | 2 | 14 | 3 | 0 | 0 | 9 |
+| last60d | 2026-09-24 | 3 | 20 | 3 | 0 | 0 | 19 |
+| 90d | 2026-08-25 | 4 | 36 | 3 | 0 | 0 | 36 |
+| last180d | 2026-05-27 | 4 | 51 | 3 | 0 | 0 | 51 |
+| 360d | 2025-11-28 | 5 | 75 | 3 | 1 | 0 | 76 |
+| last720d | 2024-12-03 | 13 | 126 | 3 | 2 | 0 | 138 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for mongodb-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T06:28:28Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T07:19:51Z._
